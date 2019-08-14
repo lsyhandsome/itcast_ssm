@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="itcast_ssm_web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/itcast_ssm_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="itcast_ssm_web/web/Web" />
+    </root>
+  </artifact>
+</component>
